@@ -7,7 +7,7 @@ first_name: Kirsten
 last_name: Thomas
 
 # Status emoji
-status:
+status: test
   icon: ☕️
 
 # Is this the primary user of the site?
