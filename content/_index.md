@@ -231,7 +231,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: Tweet me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/KirstenThomas64'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
